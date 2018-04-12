@@ -11,4 +11,6 @@ http://localhost:8080/Servlet3Example/WelcomeServlet
 
 http://localhost:8080/Servlet3Example/SessionAttributeTestServlet
 
+http://localhost:8080/Servlet3Example/URLParameter?name=Semih&surname=Eker
+
 
